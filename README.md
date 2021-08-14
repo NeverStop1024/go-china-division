@@ -16,7 +16,7 @@
 # 自动编译
 go get https://github.com/lifegit/go-china-division
 
-echo "go-china-division division"
+echo "go-china-division gain"
 
 # 源码安装
 git clone https://github.com/lifegit/go-china-division
@@ -32,10 +32,10 @@ echo "go-china-division gain"
 
 ```bash
 [root@ericzhou felix]# go build && ./go-china-division division
-division get zoning code and urban-rural division
+gain get zoning code and urban-rural division
 
 Usage:
-  china division [flags]
+  china gain [flags]
 
 Examples:
 division -o 2
