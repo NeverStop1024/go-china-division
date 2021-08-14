@@ -31,7 +31,7 @@ echo "go-china-division gain"
 ### ⚠️ 命令行参数详解
 
 ```bash
-[root@ericzhou felix]# go build && ./go-china-division division
+[root@ericzhou felix]# go build && ./go-china-division gain --help
 gain get zoning code and urban-rural division
 
 Usage:
