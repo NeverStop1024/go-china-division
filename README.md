@@ -48,7 +48,7 @@ Flags:
 ```
 
 ### 👀 注意
-1. 本软件依赖 [chrome](https://www.google.cn/chrome/)浏览器，请先安装。
+1. 本软件依赖 [chrome](https://www.google.cn/chrome/) 浏览器，请先安装。
 2. 使用时，可能会遇到人机验证。会弹出浏览器，要求输入验证码情况，正确输入即可。
 
 #### ⭕️  QA
@@ -56,4 +56,4 @@ Flags:
 1. 
    Q：报错 "Failed to get the latest year" 或 "Failed to get the node"。
 
-   A：获取数据太频繁，等几分钟后再试。或者尝试增大 sleepCounter、sleepSecond 参数。
+   A：获取数据太频繁，等几分钟后再试。
