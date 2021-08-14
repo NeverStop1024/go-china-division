@@ -51,8 +51,9 @@ Flags:
 1. 本软件依赖chrome，请先安装。
 2. 使用时，可能遇到弹出浏览器，要求输入验证码情况，请正确输入。
 
-#### ⭕️ QA
+#### ⭕️  QA
 
 1. 
-   Q：报错 "Failed to get the latest year" 或 "Failed to get the node"
+   Q：报错 "Failed to get the latest year" 或 "Failed to get the node"。
+
    A：获取数据太频繁，等几分钟后再试。或者尝试增大 sleepCounter、sleepSecond 参数。
