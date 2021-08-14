@@ -38,7 +38,7 @@ Usage:
   china gain [flags]
 
 Examples:
-division -o 2
+gain -o 2 -f c.json
 
 Flags:
   -f, --fileName string   generate file filename (default "china.json")
@@ -48,8 +48,8 @@ Flags:
 ```
 
 ### 👀 注意
-1. 本软件依赖chrome，请先安装。
-2. 使用时，可能遇到弹出浏览器，要求输入验证码情况，请正确输入。
+1. 本软件依赖 [chrome](https://www.google.cn/chrome/)浏览器，请先安装。
+2. 使用时，可能会遇到人机验证。会弹出浏览器，要求输入验证码情况，正确输入即可。
 
 #### ⭕️  QA
 
