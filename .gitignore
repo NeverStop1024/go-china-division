@@ -1,0 +1,12 @@
+
+main
+*.exe
+*.log
+conf/*
+.idea/*
+.idea
+.vscode/*
+.vscode
+runtime/*
+go-china-division
+go-china-division.test
